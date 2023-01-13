@@ -29,7 +29,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{themonsteer}/count.svg" /></p> 
 <br>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
-
+ 
 ![snake gif](https://github.com/themonsteer/themonsteer/blob/output/github-contribution-grid-snake.svg)
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
