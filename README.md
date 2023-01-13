@@ -5,10 +5,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=themonsteer&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
-<a href="https://www.github.com/themonsteer" target="_blank"><img src="https://img.shields.io/badge/-Github-%9146FF?style=for-the-badge&logo=github&logoColor=white"</a>
-<a href="https://www.instagram.com/pedro_soul/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:pedro.souza.160@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-souza-a382b3182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.github.com/themonsteer" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white"</a>
+ <a href="https://www.linkedin.com/in/pedro-souza-a382b3182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href = "mailto:pedro.souza.160@hotmail.com"> <img src="https://img.shields.io/badge/-Hotmail-FF0000?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/pedro_soul/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ 
  </div>
 
  ### Main skills:
