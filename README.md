@@ -11,9 +11,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=themonsteer&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/pedro-souza-a382b3182/" target="_blank"><img src="![image](/img/linkedin.png)" style="border-radius: 30px" target="_blank"></a>
-<a href = "mailto:pedro.souza.160@hotmail.com"> <img src="![image](/img/email.png)" target="_blank"></a>
-<a href="https://www.instagram.com/pedro_soul/" target="_blank"><img src="![image](/img/instagram.png)"</a>
+<a href="mailto:pedro.souza.160@hotmail.com"> <img src="/img/email.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-souza-a382b3182/" target="_blank"><img src="img/linkedin.png"></a>
+<a href="https://www.instagram.com/pedro_soul/" target="_blank"><img src="img/instagram.png"</a>
  
  </div>
 
