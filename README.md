@@ -11,24 +11,23 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=themonsteer&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/pedro-souza-a382b3182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href = "mailto:pedro.souza.160@hotmail.com"> <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/pedro_soul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/pedro-souza-a382b3182/" target="_blank"><img src="![image](/img/linkedin.png)" style="border-radius: 30px" target="_blank"></a>
+<a href = "mailto:pedro.souza.160@hotmail.com"> <img src="![image](/img/email.png)" target="_blank"></a>
+<a href="https://www.instagram.com/pedro_soul/" target="_blank"><img src="![image](/img/instagram.png)"</a>
  
  </div>
 
  ### Main skills:
-![image](/img/html.png)
 ![image](/img/react.png)
-![image](/img/css.png)
 ![image](/img/js.png)
-![image](/img/react1.png)
 ![image](/img/nodejs.png)
+![image](/img/html.png)
+![image](/img/css.png)
 
 
 ### Studying in this moment:
-![image](/img/js.png)
 ![image](/img/react.png)
+![image](/img/js.png)
 ![image](/img/nodejs.png)
 
 <div align="center">
