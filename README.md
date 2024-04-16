@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Pedro+De+Souza;Eu+Tenho+26+anos+e+sou+Carioca;Eu+sou+estudante+de+programação+Front/Back-End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/themonsteer">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=themonsteer&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themonsteer&layout=compact&langs_count=16&theme=github_dark"/>
+  <a href="https://github.com/pedrosoudev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrosoudev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosoudev&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div align="center"> 
@@ -30,7 +30,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{themonsteer}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrosoudev}/count.svg" /></p> 
 <br>
 </div>
 cobrinha
