@@ -40,6 +40,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devpedrosou}/count.svg" /></p> 
 <br>
 </div>
-cobrinha
- 
+cobrinha 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
