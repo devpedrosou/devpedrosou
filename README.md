@@ -28,6 +28,12 @@
 ![image](/img/js.png)
 ![image](/img/nodejs.png)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devpedrosou}/count.svg" /></p> 
+<br>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpedrosou/devpedrosou/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpedrosou/devpedrosou/output/github-contribution-grid-snake.svg">
@@ -35,10 +41,4 @@
 </picture>
 <br><br>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devpedrosou}/count.svg" /></p> 
-<br>
-</div>
-cobrinha 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
